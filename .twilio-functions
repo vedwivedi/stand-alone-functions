@@ -1,4 +1,10 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> f8b163d24fd38f6bf872914b42aad6d64c5ebf18
+{
+	"projects": {
+		"AC2ded79841f9fbf7c421a32aa16b18d9b": {
+			"serviceSid": "ZS355d5a530045372cf670bb37bb4c5dc9",
+			"latestBuild": "ZB0e130c9af78606b848128ba14d6030c5"
+		}
+	},
+	"serviceSid": "ZS355d5a530045372cf670bb37bb4c5dc9",
+	"latestBuild": "ZB0e130c9af78606b848128ba14d6030c5"
+}
