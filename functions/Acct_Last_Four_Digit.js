@@ -10,5 +10,6 @@ exports.handler = function(context, event, callback) {
          Str_actt +=returnact===""?returnact[i]:(" "+returnact[i]);
      }
      response.result=Str_actt;
+     console.log(Str_actt);
      callback(null, response);
  };
