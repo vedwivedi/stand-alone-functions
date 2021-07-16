@@ -8,7 +8,7 @@ on:
       name:
         description: 'Bot Unique Name'
         required: true
-        default: 'Billing-ZipCode-BOT'
+        default: 'Stand-Alone-Functions'
 
 jobs:
   build:
