@@ -11,7 +11,7 @@ exports.handler = function(context, event, callback) {
        'Content-Type': 'application/json',
        
      },
-     timeout:Tout,
+     
    })
    
      .then(response => {
