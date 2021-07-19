@@ -2,7 +2,7 @@ exports.handler = function(context, event, callback) {
     const axios = require('axios');
     
     var URL= event.URL;
-    var Tout=event.timeout;
+    var Tout= number(event.timeout);
     var Data=event.RequestBody;
    
     axios.post(URL, Data,
